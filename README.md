@@ -110,7 +110,7 @@ O projeto está organizado em uma estrutura de diretório simples, onde todos os
 ```
 
 ---
-```text
+
 ## 📋 Detalhamento das Páginas
 
 Com base nos seus códigos, aqui está o que cada arquivo contém:
@@ -121,8 +121,6 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 * **`parque.html`**: Destaca o lazer brasiliense e o cenário da música "Eduardo e Mônica".
 * **`esplanada.html`**: Apresenta o centro do poder político, incluindo o Museu Nacional e a Biblioteca Nacional.
 * **`pontao.html`**: Foca no entretenimento à beira do Lago Paranoá e na gastronomia local.
-
-```
 
 ---
 
