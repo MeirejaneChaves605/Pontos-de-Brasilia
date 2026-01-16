@@ -64,7 +64,7 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1" width="800" title="Demonstração do Site">
+  <img src="https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1" width="800"height="400 title="Demonstração do Site">
 </p>
 
 
@@ -90,18 +90,7 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 - **Dourado Sol**: `#ffd700` (Energia e História).
 - **Fundo Limpo**: `#f4f7f6` (Foco no conteúdo).
 
----
-Desenvolvido com ❤️ por **Meirejane**.
-
----
-
-Para organizar o seu projeto no **GitHub** e garantir que ele seja scaneável e profissional, você deve estruturar o seu repositório seguindo a hierarquia dos arquivos que você criou.
-
-Abaixo está a estrutura organizada pronta para você copiar e colar no seu arquivo **README.md**:
-
----
-
-## 📂 Estrutura do Projeto
+- ## 📂 Estrutura do Projeto
 
 O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
 
@@ -134,14 +123,15 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 
 ---
 
-## 📸 Demonstração do Projeto
-
-
-
-<p align="center">
-<img src="[https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1](https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1)" width="600" height="400" alt="Demonstração do Projeto Brasília">
-</p>
 
 ---
+Desenvolvido com ❤️ por **Meirejane**.
+
+---
+
+
+
+
+
 
 
