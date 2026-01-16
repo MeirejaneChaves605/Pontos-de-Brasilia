@@ -1,5 +1,6 @@
 # Pontos-de-Brasilia
 
+👉 [Acesse o site aqui](https://meirejanechaves605.github.io/Pontos-de-Brasilia/)
 
 # 🏛️ Explore Brasília: Guia Turístico
 
@@ -59,10 +60,6 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 2. Certifique-se de que todos os arquivos `.html` e o `style.css` estão na mesma pasta.
 3. Abra o arquivo `index.html` em um navegador moderno (Chrome, Edge ou Firefox) para garantir que as imagens carreguem corretamente.
 
-
-## 📸 Demonstração do Projeto
-
-👉 [Acesse o site aqui](https://meirejanechaves605.github.io/Pontos-de-Brasilia/)
 
 ## 🌟 Funcionalidades
 * **Design Responsivo**: Layout que se adapta a computadores e celulares.
