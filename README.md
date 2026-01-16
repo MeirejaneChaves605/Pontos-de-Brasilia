@@ -62,9 +62,8 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 
 ## 📸 Demonstração do Projeto
 
-| Home Page | Galeria de Atrações |
-| :---: | :---: |
-| ![Preview Home](https://images.unsplash.com/photo-1599427303058-f04cbcf4756f?q=80&w=400) | ![Preview Atrações](https://images.unsplash.com/photo-1610452331761-412f86283296?q=80&w=400) |
+![download](https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1)
+
 
 ## 🌟 Funcionalidades
 * **Design Responsivo**: Layout que se adapta a computadores e celulares.
