@@ -90,7 +90,7 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 - **Dourado Sol**: `#ffd700` (Energia e História).
 - **Fundo Limpo**: `#f4f7f6` (Foco no conteúdo).
 
-- ## 📂 Estrutura do Projeto
+ ## 📂 Estrutura do Projeto
 
 O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
 
@@ -102,7 +102,6 @@ O projeto está organizado em uma estrutura de diretório simples, onde todos os
 ├── pontao.html         # Página detalhada sobre o Pontão do Lago Sul
 ├── parque.html         # Página sobre o Parque da Cidade Dona Sarah Kubitschek
 ├── esplanada.html      # Página sobre a Esplanada dos Ministérios
-├── contacto.html       # Formulário de contato para usuários
 └── style.css           # Arquivo único de estilização (CSS Unificado)
 
 ```
@@ -119,7 +118,7 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 * **`parque.html`**: Destaca o lazer brasiliense e o cenário da música "Eduardo e Mônica".
 * **`esplanada.html`**: Apresenta o centro do poder político, incluindo o Museu Nacional e a Biblioteca Nacional.
 * **`pontao.html`**: Foca no entretenimento à beira do Lago Paranoá e na gastronomia local.
-* **`contacto.html`**: Oferece um canal direto para os visitantes enviarem mensagens.
+  
 
 ---
 
