@@ -62,9 +62,9 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 
 ## 📸 Demonstração do Projeto
 
-![download](https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1" width="600" title="Demonstração do Site">
+  <img src="https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1" width="800" title="Demonstração do Site">
 </p>
 
 
