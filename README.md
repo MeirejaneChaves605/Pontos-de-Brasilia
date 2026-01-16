@@ -62,15 +62,7 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 
 ## 📸 Demonstração do Projeto
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1" width="800"height="400 title="Demonstração do Site">
-</p>
-
 👉 [Acesse o site aqui](https://meirejanechaves605.github.io/Pontos-de-Brasilia/)
-
-
-
 
 ## 🌟 Funcionalidades
 * **Design Responsivo**: Layout que se adapta a computadores e celulares.
