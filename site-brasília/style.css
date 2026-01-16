@@ -1,0 +1,114 @@
+/* Reset Geral */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Cabeçalho e Menu */
+header {
+    background-color: #003087;
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+    border-bottom: 4px solid #ffd700;
+}
+
+header h1 {
+    margin-bottom: 20px;
+    font-size: 2.2rem;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    font-size: 0.9rem;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    background: #ffd700;
+    color: #003087;
+}
+
+/* Estilo Hero (Páginas de texto único) */
+.hero {
+    max-width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* CORREÇÃO DAS IMAGENS */
+.hero img, .card img {
+    width: 100%;
+    height: 350px; /* Altura fixa para não sumir */
+    object-fit: cover;
+    background-color: #ddd; /* Cor cinza se a imagem não carregar */
+    border-radius: 8px;
+    margin: 20px 0;
+    display: block;
+}
+
+/* Grid de Cards (eixo.html) */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.card h3, .card p {
+    padding: 10px 20px;
+}
+
+.card p { padding-bottom: 20px; font-size: 0.9rem; }
+
+/* Botões */
+.btn {
+    display: inline-block;
+    background: #003087;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    background: #222;
+    color: #999;
+    margin-top: 40px;
+}
