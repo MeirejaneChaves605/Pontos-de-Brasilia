@@ -133,19 +133,6 @@ Abaixo está a estrutura organizada pronta para você copiar e colar no seu arqu
 📂 Estrutura do Projeto
 O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
 
-Plaintext
-
-/
-├── index.html          # Página Inicial (Apresentação e boas-vindas)
-├── eixo.html           # Galeria de Atrações (Catedral, Planalto, Memorial JK)
-├── historia.html       # Conteúdo histórico sobre a construção de Brasília
-├── pontao.html         # Página detalhada sobre o Pontão do Lago Sul
-├── parque.html         # Página sobre o Parque da Cidade Dona Sarah Kubitschek
-├── esplanada.html      # Página sobre a Esplanada dos Ministérios
-├── contacto.html       # Formulário de contato para usuários
-└── style.css           # Arquivo único de estilização (CSS Unificado)
-
-
 ---
 
 # 📋 Demonstração do site com imagens
