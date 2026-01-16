@@ -161,6 +161,7 @@ Plaintext
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e66b70e4-6f3a-4ea9-b29b-609c2acd9373" />
 
 
+---
 
 
 Desenvolvido com ❤️ por **Meirejane Chaves**.
