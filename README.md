@@ -122,11 +122,50 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 
 ---
 
+Para organizar o seu projeto no GitHub e garantir que ele seja scaneável e profissional, você deve estruturar o seu repositório seguindo a hierarquia dos arquivos que você criou.
+
+Abaixo está a estrutura organizada pronta para você copiar e colar no seu arquivo README.md:
+
+📂 Estrutura do Projeto
+O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
+
+Plaintext
+
+/
+├── index.html          # Página Inicial (Apresentação e boas-vindas)
+├── eixo.html           # Galeria de Atrações (Catedral, Planalto, Memorial JK)
+├── historia.html       # Conteúdo histórico sobre a construção de Brasília
+├── pontao.html         # Página detalhada sobre o Pontão do Lago Sul
+├── parque.html         # Página sobre o Parque da Cidade Dona Sarah Kubitschek
+├── esplanada.html      # Página sobre a Esplanada dos Ministérios
+├── contacto.html       # Formulário de contato para usuários
+└── style.css           # Arquivo único de estilização (CSS Unificado)
+
 
 ---
-Desenvolvido com ❤️ por **Meirejane**.
 
----
+# 📋 Demonstração do site com imagens
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/b4ec4335-a58f-429c-a7b2-c36e003fd420" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/118824c2-e64d-40da-8417-ba83b0612121" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/d10c0ee3-2da3-4542-8e93-3c862af86702" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/c843678d-0503-43b7-9883-643776a24f2c" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/563f7b1b-0b2d-434e-be17-37dfa6ad2b5b" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/b8892a05-1950-4037-bff5-8ce45eac15ff" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/2a60353a-689d-49fd-9c0b-67f082df522b" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/bb02f8eb-de03-47dc-9d6c-f78e2183282f" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/4f87b82f-6556-4eb2-b7e4-143e906a6ac3" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/3c9a70b8-fa93-43d3-a826-fbb106d5f294" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/4636475b-8320-4a33-af7a-d63dbfee5181" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/dab3c707-fc63-43bf-92be-82a33f730d4a" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e66b70e4-6f3a-4ea9-b29b-609c2acd9373" />
+
+
+
+
+Desenvolvido com ❤️ por **Meirejane Chaves**.
+
+
 
 
 
