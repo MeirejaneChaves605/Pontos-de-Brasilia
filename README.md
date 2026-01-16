@@ -95,4 +95,53 @@ Desenvolvido com ❤️ por **Meirejane**.
 
 ---
 
-**Gostaria que eu gerasse o código da página de `contacto.html` para você completar os links do seu menu?**
+Para organizar o seu projeto no **GitHub** e garantir que ele seja scaneável e profissional, você deve estruturar o seu repositório seguindo a hierarquia dos arquivos que você criou.
+
+Abaixo está a estrutura organizada pronta para você copiar e colar no seu arquivo **README.md**:
+
+---
+
+## 📂 Estrutura do Projeto
+
+O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
+
+```text
+/
+├── index.html          # Página Inicial (Apresentação e boas-vindas)
+├── eixo.html           # Galeria de Atrações (Catedral, Planalto, Memorial JK)
+├── historia.html       # Conteúdo histórico sobre a construção de Brasília
+├── pontao.html         # Página detalhada sobre o Pontão do Lago Sul
+├── parque.html         # Página sobre o Parque da Cidade Dona Sarah Kubitschek
+├── esplanada.html      # Página sobre a Esplanada dos Ministérios
+├── contacto.html       # Formulário de contato para usuários
+└── style.css           # Arquivo único de estilização (CSS Unificado)
+
+```
+
+---
+
+## 📋 Detalhamento das Páginas
+
+Com base nos seus códigos, aqui está o que cada arquivo contém:
+
+* **`index.html`**: Serve como a porta de entrada, apresentando a arquitetura de Oscar Niemeyer e o urbanismo de Lúcio Costa.
+* **`eixo.html`**: Utiliza um sistema de **Cards** para listar as principais atrações monumentais.
+* **`historia.html`**: Foca na jornada de Juscelino Kubitschek e no trabalho dos Candangos durante os 41 meses de construção.
+* **`parque.html`**: Destaca o lazer brasiliense e o cenário da música "Eduardo e Mônica".
+* **`esplanada.html`**: Apresenta o centro do poder político, incluindo o Museu Nacional e a Biblioteca Nacional.
+* **`pontao.html`**: Foca no entretenimento à beira do Lago Paranoá e na gastronomia local.
+* **`contacto.html`**: Oferece um canal direto para os visitantes enviarem mensagens.
+
+---
+
+## 📸 Demonstração do Projeto
+
+
+
+<p align="center">
+<img src="[https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1](https://github.com/user-attachments/assets/7fb152a7-a379-4d07-a6a2-b89489f218d1)" width="600" height="400" alt="Demonstração do Projeto Brasília">
+</p>
+
+---
+
+
