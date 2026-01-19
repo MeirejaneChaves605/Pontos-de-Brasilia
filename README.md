@@ -82,9 +82,6 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 - **Dourado Sol**: `#ffd700` (Energia e História).
 - **Fundo Limpo**: `#f4f7f6` (Foco no conteúdo).
 
- ## 📂 Estrutura do Projeto
-
-O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
 
 ```text
 /
