@@ -139,6 +139,13 @@ O projeto está organizado em uma estrutura de diretório simples, onde todos os
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/e66b70e4-6f3a-4ea9-b29b-609c2acd9373" />
 
 
+
+# 🔦 Gifs das imagens do site
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/89d19a2b-2a8f-4fa9-95bb-317bdc9d5fa5)
+
+
+
 # 🌍 Vídeo de Brasília 
 
 
