@@ -43,7 +43,7 @@ A página de **História** detalha o sonho de JK e a execução do Plano Piloto 
 ---
 
 ## 🎨 Design System
-
+```text
 Para refletir a identidade da capital, o CSS foi construído com as seguintes definições:
 | Elemento | Cor / Estilo |
 | :--- | :--- |
@@ -52,6 +52,7 @@ Para refletir a identidade da capital, o CSS foi construído com as seguintes de
 | **Fundo** | `#f4f7f6` (Cinza claro para leitura) |
 | **Efeitos** | Hover com elevação em 3D nos cards |
 
+```
 ---
 
 ## 🛠️ Como visualizar o projeto
