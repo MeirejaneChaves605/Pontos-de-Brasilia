@@ -113,10 +113,6 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 
 ---
 
-Para organizar o seu projeto no GitHub e garantir que ele seja scaneável e profissional, você deve estruturar o seu repositório seguindo a hierarquia dos arquivos que você criou.
-
-Abaixo está a estrutura organizada pronta para você copiar e colar no seu arquivo README.md:
-
 📂 Estrutura do Projeto
 O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
 
