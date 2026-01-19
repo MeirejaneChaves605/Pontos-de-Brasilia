@@ -110,9 +110,6 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 
 ---
 
-📂 Estrutura do Projeto
-O projeto está organizado em uma estrutura de diretório simples, onde todos os arquivos principais residem na raiz para facilitar o carregamento do CSS e a navegação entre as páginas.
-
 ---
 
 # 📋 Demonstração do site com imagens
