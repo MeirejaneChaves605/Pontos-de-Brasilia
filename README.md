@@ -136,6 +136,16 @@ Com base nos seus códigos, aqui está o que cada arquivo contém:
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/89d19a2b-2a8f-4fa9-95bb-317bdc9d5fa5)
 
 
+# 🎥 Vídeo do site elaborado
+
+
+
+
+https://github.com/user-attachments/assets/09c20ce5-09f9-4a2b-9982-3ab3e431cda6
+
+
+
+
 
 # 🌍 Vídeo de Brasília 
 
